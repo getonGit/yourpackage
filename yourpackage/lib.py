@@ -1,8 +1,9 @@
 
-import datetime
+
 
 
 def try_me():
+    import datetime
     year = int(input('When is your birthday? [YY] '))
     month = int(input('When is your birthday? [MM] '))
     day = int(input('When is your birthday? [DD] '))
